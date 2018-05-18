@@ -3,3 +3,4 @@ This repository contains a series of economic analyses performed on the backbone
 
 ## Contents
 1. [Analysis of Colombia's traditional and non-traditional exports](https://github.com/luisocam/econ-analysis/blob/master/001%20-%20Colombian%20Exports%20Analysis.ipynb)
+2. [Income inequality analysis: Belgium and Colombia](https://github.com/luisocam/econ-analysis/blob/master/002%20-%20Income%20Inequality.ipynb)
